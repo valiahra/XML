@@ -1,9 +1,9 @@
-[
-	{
-		"FullName": "Khramovich Valentina Vitalievna",
-		"Age": "29",
-		"NumberOfPets": "2",
-		"FutureDesiredSalary": "10000$"
-	}
-]
+<USER>
+	
+		<FullName>Khramovich Valentina Vitalievna</FullName>
+		<Age>30</Age>
+		<NumberOfPets>2</NumberOfPets>
+		<FutureDesiredSalary>10000$</FutureDesiredSalary>
+	
 
+</USER>
